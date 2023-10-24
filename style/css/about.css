@@ -109,7 +109,6 @@ blockquote {
 
 .home-banner__desc {
   position: absolute;
-  top: 180px;
   display: flex;
   flex-direction: column;
   justify-content: center;
