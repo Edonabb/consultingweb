@@ -90,8 +90,8 @@
   font-weight: 600;
   line-height: 26px;
 }
-.description {
-  color: #fff;
+.square__style h3 {
+  color: white;
   font-family: Inter;
   font-size: 18px;
   font-style: normal;
@@ -163,6 +163,16 @@ span {
 }
 
 .square__style {
+  display: flex;
+  align-items: baseline;
+  gap: 5px;
+}
+.square__blue {
+  height: 12px;
+  width: 12px;
+  background-color: #6b77e5;
+}
+.square__blue__style {
   display: flex;
   align-items: baseline;
   gap: 5px;
