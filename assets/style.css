@@ -408,22 +408,7 @@ span {
   background: #f4f4f4;
   padding: 30px;
 }
-.article-description__Financial__blue {
-  background: #6b77e5;
-  display: flex;
-  flex-direction: row-reverse;
-  justify-content: center;
-  align-items: center;
-  gap: 90px;
-  border: 1px solid #6b77e5;
-  padding: 30px;
-}
-.article-description__text__style h2 {
-  color: #fff;
-  font-family: Inter;
-  font-size: 25px;
-  font-weight: 600;
-}
+
 /* .article-description__Financial:hover {
     background: #6b77e5;
     color: #ffffff;
