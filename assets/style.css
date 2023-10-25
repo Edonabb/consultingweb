@@ -90,10 +90,13 @@
   font-weight: 600;
   line-height: 26px;
 }
-.home-banner__desc h3 {
+.description {
+  color: #fff;
+  font-family: Inter;
   font-size: 18px;
-  line-height: 26px;
+  font-style: normal;
   font-weight: 600;
+  line-height: 146.187%;
   z-index: 1;
 }
 .home-banner__all {
