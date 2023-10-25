@@ -365,32 +365,4 @@ blockquote {
   font-weight: 500;
 }
 
-.services {
-  background-color: #37393f;
-  margin-top: 152px;
-  width: 100%;
-}
-
-.services__text__style h2 {
-  color: #fff;
-  font-family: Poppins;
-  font-size: 30px;
-  width: 372px;
-  font-weight: 600;
-  line-height: 121%;
-}
-
-.services__text p {
-  color: #fff;
-  font-family: Inter;
-  font-size: 18px;
-  width: 587px;
-  font-weight: 400;
-  line-height: 146.187%;
-}
-
-.service__all__description {
-  color: white;
-}
-
 /*# sourceMappingURL=about.css.map */
